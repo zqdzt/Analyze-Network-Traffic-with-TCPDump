@@ -1,0 +1,6 @@
+ pencere
+Name[uk]=Нове вікно в режимі анонімного перегляду
+Name[vi]=Cửa sổ ẩn danh mới
+Name[zh_CN]=新建隐身窗口
+Name[zh_TW]=新增無痕式視窗
+Exec=/usr/bin/google-chrome-stable --incognito
